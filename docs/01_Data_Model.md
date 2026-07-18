@@ -114,13 +114,6 @@ Dimensão ou tabela de política
 Um chamado faz parte do backlog quando:
     status não está em: Resolvido,Fechado,Cancelado
 
-### Chamado reaberto ###
-reaberto = true caso qtd_reabertura > 0
-
-### Chamado escalado ###
-escalado = true caso qtd_transferido > 0
-N1 -> N2, N2 -> N3
-
 ### escala_satisfacao ###
 de 1 a 5
 1 = Very Dissatisfied
